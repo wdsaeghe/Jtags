@@ -11,9 +11,6 @@
 {
 	border: none;
 }
-.jq_tags_editor .jq_tags_tokens
-{
-}
 .jq_tags_editor .jq_tags_tokens  .jq_tags_token
 {
 	-moz-border-radius: 2px;
@@ -27,6 +24,6 @@
 .jq_tags_editor .jq_tags_tokens  .jq_tags_token a
 {
 	color: #749440;
-	fon-weight: bold;
+	font-weight: bold;
 	margin-left: 7px;
 }
